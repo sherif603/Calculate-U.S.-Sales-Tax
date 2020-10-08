@@ -1,22 +1,22 @@
-Calculating **the U.S. sales tax** Project
-# Sales taxes in the United States are taxes placed on the sale or lease of goods and services in the United States.
-# Sales tax is governed at the state level and no national general sales tax exists.
+# Calculating **the U.S. sales tax** Project
+- Sales taxes in the United States are taxes placed on the sale or lease of goods and services in the United States.
+- Sales tax is governed at the state level and no national general sales tax exists.
 
-# Software I used and own on my machine:
-## Python3 (version python 3.8.3),
-## Anacoda (version conda 4.8.4).
-## Spyder (version 4.1.4).
+# **Software** I used and own on my machine:
+- Python3 (version python 3.8.3),
+- Anacoda (version conda 4.8.4).
+- Spyder (version 4.1.4).
 
-# The source files: Calculate_Sales_tax.txt
-# The output file: Calculate_Sales_tax.py
+## The source files: `Calculate_Sales_tax.txt`
+## The output file: `Calculate_Sales_tax.py`
 
-# Depending on where an individual is from I tax them by the applicable tax rate, appropriately.
-# Sales tax is calculated by multiplying the purchase price by the corresponding state tax rate.
-# The following U.S. sales tax rates in this project are related to the year 2018.
-# However, it becomes out of date as soon as the state or local tax authorities make changes to tax laws and rules.
+# Usage
+- Depending on where an individual is from I tax them by the applicable tax rate, appropriately.
+- Sales tax is calculated by multiplying the purchase price by the corresponding state tax rate.
+- The following U.S. sales tax rates in this project are related to the year 2018.
+- However, it becomes out of date as soon as the state or local tax authorities make changes to tax laws and rules.
+
 # The following is a list of U.S. State, State abbreviations, and related state sales tax rate respectively.
-
-# U.S. State, State abbreviation, State sales tax rate:
 - Alabama, AL, 9.1%
 - Alaska, AK, 1.8%
 - American Samoa, AS, 7.8%

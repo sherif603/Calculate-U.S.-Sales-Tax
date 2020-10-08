@@ -1,12 +1,11 @@
-# Calculate-U.S.-Sales-Tax
-# Calculate the U.S. sales tax Project
+Calculating **the U.S. sales tax** Project
 # Sales taxes in the United States are taxes placed on the sale or lease of goods and services in the United States.
 # Sales tax is governed at the state level and no national general sales tax exists.
 
 # Software I used and own on my machine:
-# Python3 (version python 3.8.3),
-# Anacoda (version conda 4.8.4).
-# Spyder (version 4.1.4).
+## Python3 (version python 3.8.3),
+## Anacoda (version conda 4.8.4).
+## Spyder (version 4.1.4).
 
 # The source files: Calculate_Sales_tax.txt
 # The output file: Calculate_Sales_tax.py
